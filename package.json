@@ -1,0 +1,8 @@
+{
+  "name": "9v-scored",
+  "version": "1.0.0",
+  "private": true,
+  "description": "9-V SCORED football statistics and team management app",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

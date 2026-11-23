@@ -1,0 +1,323 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "Administrator",
+      "email": "admin@gmai.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "admin",
+      "avatar": "9V"
+    },
+    {
+      "id": "fdfb7492-b3cd-4658-9ace-98979372e8fe",
+      "name": "Nurmuhammad Vakhabov",
+      "email": "nurmuhammad@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 10,
+      "position": "LW",
+      "matches": 1,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 9,
+      "rated": 1
+    },
+    {
+      "id": "b7c3a5ab-3e90-40d8-8ecd-c751e37c166d",
+      "name": "Abdulaziz Rakhimov",
+      "email": "Abdulaziz@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 9,
+      "position": "CAM",
+      "matches": 1,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 8,
+      "rated": 1
+    },
+    {
+      "id": "061ef61f-64ad-486c-bd24-bd4e5891a0fc",
+      "name": "Abdulloh Meliyev",
+      "email": "Meliyev@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 11,
+      "position": "CAM",
+      "matches": 1,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 7,
+      "rated": 1
+    },
+    {
+      "id": "fb4a4a2c-1102-4201-bc2e-aa20e3a3d97c",
+      "name": "Abdulloh Uralov",
+      "email": "Abdulloh@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 19,
+      "position": "ST",
+      "matches": 1,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 7.5,
+      "rated": 1
+    },
+    {
+      "id": "a312748b-80c5-47fc-b305-a54a819a17ce",
+      "name": "Ibrohim Mansurboyev",
+      "email": "Mansurboyev@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 1,
+      "position": "GK",
+      "matches": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 7.5,
+      "rated": 1
+    },
+    {
+      "id": "fa35b129-f85a-4818-a7e6-04c6c6b649a6",
+      "name": "SR5",
+      "email": "Siroj@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 99,
+      "position": "GK",
+      "matches": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 5.5,
+      "rated": 1
+    },
+    {
+      "id": "f4bfcaec-90e7-489c-9b33-892fc752266c",
+      "name": "Kamron",
+      "email": "Kamron@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 30,
+      "position": "CB",
+      "matches": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 7,
+      "rated": 1
+    },
+    {
+      "id": "6565e8e6-c31e-48ce-a461-43d3d2aa431c",
+      "name": "Shoxsaid ",
+      "email": "Shoxsaid@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 45,
+      "position": "CB",
+      "matches": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 6,
+      "rated": 1
+    },
+    {
+      "id": "e4fc4660-bb4c-4cbb-9214-3136b5408f97",
+      "name": "Shoxrux JR",
+      "email": "Shoxjahon@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 10,
+      "position": "RW",
+      "matches": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 0,
+      "rated": 0
+    },
+    {
+      "id": "1401abe6-2dcb-4359-9d40-01d7568245ea",
+      "name": "Diyorbek Jakhongirov",
+      "email": "Diyorbek@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 25,
+      "position": "RW",
+      "matches": 1,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 8.5,
+      "rated": 1
+    },
+    {
+      "id": "60d93937-a215-40a1-8d50-09ce2be79d00",
+      "name": "Ibrohim Mahmudjonov",
+      "email": "Mahmudjonov@gmail.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "role": "user",
+      "avatar": "⚽",
+      "number": 17,
+      "position": "LW",
+      "matches": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0,
+      "ratingTotal": 6.5,
+      "rated": 1
+    }
+  ],
+  "teams": [],
+  "lineups": [
+    {
+      "id": "471f1526-de05-4a24-8c78-f446d8f8d8de",
+      "name": "Asosiy tarkib",
+      "formation": "1-2-1",
+      "homeFormation": "1-2-1",
+      "awayFormation": "1-2-1",
+      "home": [
+        "a312748b-80c5-47fc-b305-a54a819a17ce",
+        "f4bfcaec-90e7-489c-9b33-892fc752266c",
+        "b7c3a5ab-3e90-40d8-8ecd-c751e37c166d",
+        "1401abe6-2dcb-4359-9d40-01d7568245ea",
+        "fdfb7492-b3cd-4658-9ace-98979372e8fe"
+      ],
+      "away": [
+        "fa35b129-f85a-4818-a7e6-04c6c6b649a6",
+        "6565e8e6-c31e-48ce-a461-43d3d2aa431c",
+        "061ef61f-64ad-486c-bd24-bd4e5891a0fc",
+        "60d93937-a215-40a1-8d50-09ce2be79d00",
+        "fb4a4a2c-1102-4201-bc2e-aa20e3a3d97c"
+      ],
+      "createdAt": "2026-11-23T14:55:33.419Z",
+      "result": {
+        "homeStats": [
+          {
+            "rating": 7.5,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "rating": 7,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "rating": 8,
+            "goals": 0,
+            "assists": 1
+          },
+          {
+            "rating": 8.5,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "rating": 9,
+            "goals": 2,
+            "assists": 0
+          }
+        ],
+        "awayStats": [
+          {
+            "rating": 5.5,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "rating": 6,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "rating": 7,
+            "goals": 0,
+            "assists": 1
+          },
+          {
+            "rating": 6.5,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "rating": 7.5,
+            "goals": 1,
+            "assists": 0
+          }
+        ],
+        "homeScore": 3,
+        "awayScore": 1,
+        "finishedAt": "2026-11-23T14:55:33.420Z"
+      }
+    }
+  ],
+  "matches": [
+    {
+      "id": "81e73b79-e893-4012-9564-6f7ea06fe6ce",
+      "lineupId": "471f1526-de05-4a24-8c78-f446d8f8d8de",
+      "name": "Asosiy tarkib",
+      "homeScore": 3,
+      "awayScore": 1,
+      "finishedAt": "2026-11-23T14:55:33.420Z"
+    }
+  ],
+  "draft": {
+    "name": "Asosiy tarkib",
+    "homeSel": "custom",
+    "awaySel": "custom",
+    "homeCustom": "1-2-1",
+    "awayCustom": "1-2-1",
+    "home": [
+      "a312748b-80c5-47fc-b305-a54a819a17ce",
+      "f4bfcaec-90e7-489c-9b33-892fc752266c",
+      "b7c3a5ab-3e90-40d8-8ecd-c751e37c166d",
+      "1401abe6-2dcb-4359-9d40-01d7568245ea",
+      "fdfb7492-b3cd-4658-9ace-98979372e8fe"
+    ],
+    "away": [
+      "fa35b129-f85a-4818-a7e6-04c6c6b649a6",
+      "6565e8e6-c31e-48ce-a461-43d3d2aa431c",
+      "061ef61f-64ad-486c-bd24-bd4e5891a0fc",
+      "60d93937-a215-40a1-8d50-09ce2be79d00",
+      "fb4a4a2c-1102-4201-bc2e-aa20e3a3d97c"
+    ],
+    "finished": false,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "stats": {
+      "home": [],
+      "away": []
+    }
+  }
+}
